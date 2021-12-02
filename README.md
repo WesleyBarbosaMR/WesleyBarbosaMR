@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-WELCOME TO MY GITHUB!
+WELCOME TO MY GITHUB!🤓💻
 
 #### About me
-🔭 I am Wesley.
+🔭 I'm Wesley, a front-end developer and designer focused on web applications. I'm currently improving on UI/UX.
+Passionate about science fiction films and documentaries, eclectic in music and an avid reader.
+I am currently aiming for the bachelor's course in Digital Systems and Media, where I hope to evolve and mature my skills.
 
 
 <div>
@@ -33,7 +35,7 @@ WELCOME TO MY GITHUB!
     
 
     
-  <img align="right" src="https://i.pinimg.com/originals/0d/e9/79/0de97945dc3e12660a6b7c5da53be448.gif" height="200">
+  <img align="right" src="https://github.com/WesleyBarbosaMR/WesleyBarbosaMR/blob/main/Bio_Github.png" height="200">
 </div>
   
    ##
