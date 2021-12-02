@@ -5,7 +5,9 @@ WELCOME TO MY GITHUB!🤓💻
 #### About me
 🔭 I'm Wesley, a front-end developer and designer focused on web applications. I'm currently improving on UI/UX.
 Passionate about science fiction films and documentaries, eclectic in music and an avid reader.
-I am currently aiming for the bachelor's course in Digital Systems and Media, where I hope to evolve and mature my skills.
+Currently I want to attend a bachelor's degree in Systems and Digital Media, where I hope to evolve and mature my skills.
+
+
 
 
 <div>
