@@ -7,7 +7,7 @@ WELCOME TO MY GITHUB!🤓💻
 Passionate about science fiction films and documentaries, eclectic in music and an avid reader.
 Currently I want to attend a bachelor's degree in Systems and Digital Media, where I hope to evolve and mature my skills.
 
-
+### 💡The profile image is a vectorized image in Adobe Illustrator. <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
 
 
 <div>
