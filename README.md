@@ -3,9 +3,7 @@
 WELCOME TO MY GITHUB!🤓💻
 
 #### About me
-🔭 I'm Wesley, a front-end developer and designer focused on web applications. I'm currently improving on UI/UX.
-Passionate about science fiction films and documentaries, eclectic in music and an avid reader.
-Currently I want to attend a bachelor's degree in Systems and Digital Media, where I hope to evolve and mature my skills.
+🔭 I'm Wesley, a mobile and web developer focused on mobile development. I am currently honing my skills in Flutter with DataCloud in Firebase storage. I also enjoy doing web development and graphic design projects. I am currently preparing to take a bachelor's degree in Digital Systems and Media at UFC Fortaleza, where I hope to evolve and mature my skills. Passionate about science fiction films and documentaries, eclectic in music and an avid reader.
 
 ### 💡The profile picture is an image edited in Adobe Photoshop. <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
 
