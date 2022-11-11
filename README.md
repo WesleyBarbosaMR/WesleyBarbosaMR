@@ -3,7 +3,7 @@
 
 
 ### About me
-### Bachelor in Systems and Digital Media from UFC Fortaleza | DSC IFCE Design Lead.
+### Bachelor in Systems and Digital Media from UFC Fortaleza | Mobile Developer on LIT-UFC.
 #### 🔭 I'm Wesley, a mobile and web developer focused on mobile development. I am currently honing my skills in Flutter with different applications. I also enjoy doing web development and graphic design projects.
 ##### ☕ Passionate about science fiction films and documentaries, eclectic in music and an avid reader.
 
