@@ -18,7 +18,7 @@
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,nodejs,vue,figma,github,materialui,linux,postman,styledcomponents,bootstrap,postgres,discord,linkedin,instagram" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,javascript,typescript,css,html,react,next,tailwind,nodejs,vue,figma,github,linux,postman,styledcomponents,bootstrap,postgres,flutter,dart,firebase,mysql,java,python,c,cpp,discord,linkedin,instagram" />
 </a>
   <br />
 
@@ -60,11 +60,4 @@
    ##
  
   
-  <div> 
-  <a href="https://www.instagram.com/wesbarbosamr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:wesleybarbosa.mr26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wesley-barbosa-74332a174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.behance.net/wesleybarbosa8"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg"></a>
- 
- 
-</div>
+  
