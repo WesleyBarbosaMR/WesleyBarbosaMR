@@ -8,14 +8,27 @@
 ##### ☕ Passionate about science fiction films and documentaries, eclectic in music and an avid reader.
 
 ### 💡 The profile picture is an image edited in Adobe Photoshop. <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+    
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WesleyBarbosaMR&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WesleyBarbosaMR&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+ | ----------- | ----------- |
 
 
-<div>
-  <a href="https://github.com/WesleyBarbosaMR">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyBarbosaMR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyBarbosaMR&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+ 
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,nodejs,vue,figma,github,materialui,linux,postman,styledcomponents,bootstrap,postgres,discord,linkedin,instagram" />
+</a>
+  <br />
 
+  </div>
+
+ 
+##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=WesleyBarbosaMR&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
   
   <div style="display: inline_block"><br>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
