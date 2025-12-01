@@ -3,8 +3,8 @@
 
 
 ### About me
-### Bachelor in Systems and Digital Media from UFC Fortaleza | Requirement Analyst on DARM Labs | Mobile & Web Developer.
-#### 🔭 I'm Wesley, a mobile and web developer focused on mobile development. I am currently honing my skills in Flutter with different applications. I also enjoy doing web development and graphic design projects.
+### Bachelor in Systems and Digital Media from UFC Fortaleza | Mobile & Web Developer.
+#### 🔭 I'm Wesley, a mobile and web developer focused on mobile development. I am currently honing my skills in Flutter with different applications. I also enjoy doing web development and graphic design projects or multimedia projects.
 ##### ☕ Passionate about science fiction films and documentaries, eclectic in music and an avid reader.
 
 ### 💡 The profile picture is an image edited in Adobe Photoshop. <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
